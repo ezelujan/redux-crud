@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "700",
+      "id": 1
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "400",
+      "id": 2
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 20kg",
+      "precio": 320,
+      "id": 4
+    },
+    {
+      "nombre": "Juego de maracuyá",
+      "precio": "1800",
+      "id": 7
+    },
+    {
+      "nombre": "Juego de papaya",
+      "precio": 3500,
+      "id": 8
+    },
+    {
+      "nombre": "Romolacha",
+      "precio": 350,
+      "id": 9
+    },
+    {
+      "nombre": "Acetaminofen",
+      "precio": 500,
+      "id": 10
+    },
+    {
+      "nombre": "Leon",
+      "precio": 312312312,
+      "id": 11
+    }
+  ]
+}
